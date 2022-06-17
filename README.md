@@ -13,3 +13,4 @@ then run:
 pip install -r requirements.txt
 jupyter lab model.ipynb
 ```
+if you are interested in knowing more about this project, please consider reading the [paper](https://github.com/Huntonion/CASA-2021-2022/blob/main/paper.pdf) produced.
