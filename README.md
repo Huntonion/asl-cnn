@@ -5,9 +5,9 @@
  ### How to run
  
 ```
-git clone https://github.com/Huntonion/cnn-american-sign-language
+git clone https://github.com/Huntonion/asl-cnn
 ```
-download the dataset from https://www.kaggle.com/datasets/grassknoted/asl-alphabet and extract the archive into the ```cnn-american-sign-language``` folder.
+download the dataset from https://www.kaggle.com/datasets/grassknoted/asl-alphabet and extract the archive into the ```asl-cnn``` folder.
 then run:
 ```
 pip install -r requirements.txt
