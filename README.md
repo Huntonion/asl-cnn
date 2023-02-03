@@ -5,7 +5,7 @@
  ### How to run
  
 ```
-git clone https://github.com/Huntonion/CASA-2021-2022
+git clone https://github.com/Huntonion/cnn-american-sign-language
 ```
 download the dataset from https://www.kaggle.com/datasets/grassknoted/asl-alphabet and extract the archive into the ```CASA-2021-2022``` folder.
 then run:
